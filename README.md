@@ -4,4 +4,4 @@
 > 
 > Teacher: Xu Zhao
 
-This respository contains three homeworks and a course project.
+This respository contains three homeworks and a course project. See them in different branches.
